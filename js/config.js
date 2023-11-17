@@ -27,8 +27,8 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "여긴 어디",
-  "난 누구"
+  "치고 박고 싸우면 오리사 야짤",
+  "치고 박고 싸우면 유미 야짤"
 ];
 
 /**
