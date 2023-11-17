@@ -111,7 +111,7 @@ function loadAll() {
     debug("Checking if first time loading.. " + downloadingFileCalled);
     if (downloadingFileCalled) {
       announce(
-        "This is your first time loading please wait for the files to download",
+        "서버에 필요한 파일이 없네요, 바로 받도록하죠.",
         true
       );
     }
